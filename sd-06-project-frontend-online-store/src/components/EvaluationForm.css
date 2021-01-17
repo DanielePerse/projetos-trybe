@@ -1,0 +1,30 @@
+.main-div {
+  margin: auto;
+  width: 95%;
+}
+
+.estrelas {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.input {
+  margin: 10px;
+  padding: 10px;
+}
+
+.buttonAvaliar {
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+
+.inputAv {
+  margin: 10px;
+}
+
+.Link {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}

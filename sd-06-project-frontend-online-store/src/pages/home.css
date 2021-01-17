@@ -1,0 +1,23 @@
+.home-container {
+  background-color: whitesmoke;
+	display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.home-container h1 {
+  background-color: rgb(67, 88, 83);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-container {
+  background-color: rgb(67, 88, 83);
+  border-bottom: 1px solid rgb(190, 190, 190);
+  box-shadow: 0px 1px 0px 1px rgb(221, 221, 221);
+	display: flex;
+	justify-content: space-around;
+	height: 55px;
+  width: 100%;
+}
