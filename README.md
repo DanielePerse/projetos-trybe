@@ -7,6 +7,7 @@ Formação: Web Full Stack.
 
 *Período do curso: Junho/2020 até Junho/2021*
 
+<hr />
 
 ### Projeto: MongoDB DataFligths - Janeiro/2021
 
@@ -35,8 +36,8 @@ Formação: Web Full Stack.
 ### Projeto: MySql All For One - Dezembro/2020
 
 <p><em>Desenvolvimento: Você passará por três níveis de desafios. Cada nível trabalhará habilidades diferentes. 1. Desafios de SELECT e criação de dados; 2. Desafios sobre filtragem de dados; 3. Desafios de manipulação de tabelas.</em></p>
-<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-mysql-all-for-one" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
 <p>Utilizando: SQL.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-mysql-all-for-one" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
 
 <hr />
 
