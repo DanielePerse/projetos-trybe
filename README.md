@@ -8,10 +8,18 @@ Formação: Web Full Stack.
 *Período do curso: Junho/2020 até Junho/2021*
 
 
+### Projeto: MongoDB DataFligths - Janeiro/2021
+
+<p><em>Desenvolvimento: Você praticará todos os conceitos do último bloco de MongoDB. Você passará por vários níveis de desafios. Cada nível trabalhará habilidades diferentes. 1. Selecionar e contar documentos utilizando filtros simples; 2. Selecionar e contar documentos utilizando filtros avançados e alguns operadores de comparação; 3. Construir queries mais complexas juntando operadores de comparação e operadores lógicos.</em></p>
+<p>Utilizando: MongoDB.</p>
+
+<hr />
+
 ### Projeto: MySql One For All - Janeiro/2021
 
-<p><em>Desenvolvimento: Você receberá uma tabela não normalizada, a qual deverá ser normalizada e populada, para que você possa executar queries sobre ela com o intuito de encontrar as informações solicitadas. Você passará por vários níveis de desafios. Cada nível trabalhará habilidades diferentes. 1. Analisar se duas tabelas não normalizadas; 2. Identificar modificações necessárias para que suas tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais; 3. Criar um banco de dados a partir de uma planilha que contém tabelas e dados; 4. Criar e modelar tabelas; 5. Queries que passam pelos principais comandos SQL vistos até o momento..</em></p>
+<p><em>Desenvolvimento: Você receberá uma tabela não normalizada, a qual deverá ser normalizada e populada, para que você possa executar queries sobre ela com o intuito de encontrar as informações solicitadas. Você passará por vários níveis de desafios. Cada nível trabalhará habilidades diferentes. 1. Analisar se duas tabelas não normalizadas; 2. Identificar modificações necessárias para que suas tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais; 3. Criar um banco de dados a partir de uma planilha que contém tabelas e dados; 4. Criar e modelar tabelas; 5. Queries que passam pelos principais comandos SQL vistos até o momento.</em></p>
 <p>Utilizando: SQL.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-mysql-one-for-all" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
 
 <hr />
 
