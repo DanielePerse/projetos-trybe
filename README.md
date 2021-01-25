@@ -9,6 +9,14 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: MongoDB Commerce - Janeiro/2021
+
+<p><em>Desenvolvimento: Você praticará todos os conceitos do último bloco de MongoDB. A ideia é trabalhar com alguns dados do cardápio do McDonalds: ingredientes, valores nutricionais e dados fictícios de vendas. Este projeto está dividido em três níveis. Cada um deles trabalhará habilidades diferentes. Esses níveis são: 1. Alterar documentos utilizando métodos de update com operadores simples; 2. Alterar documentos utilizando operadores complexos e modificadores; 3. Construir queries e expressões complexas utilizando índices textuais e expressões regulares.</em></p>
+<p>Utilizando: MongoDB.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-mongodb-commerce" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
 ### Projeto: MongoDB DataFligths - Janeiro/2021
 
 <p><em>Desenvolvimento: Você praticará todos os conceitos do último bloco de MongoDB. Você passará por vários níveis de desafios. Cada nível trabalhará habilidades diferentes. 1. Selecionar e contar documentos utilizando filtros simples; 2. Selecionar e contar documentos utilizando filtros avançados e alguns operadores de comparação; 3. Construir queries mais complexas juntando operadores de comparação e operadores lógicos.</em></p>
