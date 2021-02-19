@@ -9,6 +9,14 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: Crush Manager - Fevereiro/2021
+
+<p><em>Desenvolvimento: você vai desenvolver uma API de um CRUD (Create, Read, Update e Delete) de crushs. Você vai desenvolver alguns endpoints que irão ler e escrever em um arquivo, isso utilizando o módulo fs</em></p>
+<p>Utilizando: NodeJS - Aggregation Framework.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-crush-manager" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
 ### Projeto: MongoDB Aggregations - Janeiro/2021
 
 <p><em>Desenvolvimento: você utilizará vários datasets, de forma que possa praticar em vários cenários os diversos operadores e estágios do aggregation pipeline. Vamos trabalhar com dados do IMDB, dados sobre empresas aéreas e também dados que contenham registros de deslocamento de pessoas que utilizam bicicletas.</em></p>
