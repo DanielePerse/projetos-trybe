@@ -7,6 +7,23 @@ Formação: Web Full Stack.
 
 *Período do curso: Junho/2020 até Junho/2021*
 
+
+<hr />
+
+### Projeto: Cookmaster - Março/2021
+
+<p><em>Desenvolvimento: você vai desenvolver seu app utilizando a arquitetura MSC. Neste novo projeto deverá ser possível fazer o cadastro e login de pessoa usuária, onde apenas esse usúario poderá acessar, modificar e deletar as receitas que cadastrou. Além de fazer Upload de arquivos.</em></p>
+<p>Utilizando: NodeJS - Autenticação e Upload de arquivos.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-cookmaster" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
+### Projeto: Store Manager - Fevereiro/2021
+
+<p><em>Desenvolvimento: você vai desenvolver sua primeira API utilizando a arquitetura MSC. A API a ser construída trata-se de um sistema de gerenciamento de vendas, onde será possível criar, visualizar, deletar e atualizar produtos e vendas</em></p>
+<p>Utilizando: NodeJS - camada de serviço e arquitetura Rest e Restful.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-store-manager" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
 <hr />
 
 ### Projeto: Crush Manager - Fevereiro/2021
