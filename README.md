@@ -10,6 +10,15 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: Stranger Things BackEnd e FrontEnd - Março/2021
+
+<p><em>Desenvolvimento: você vai adaptar e configurar os projetos descritos nesse README para que seja feito o deploy deles. Você vai colocar os projetos frontend e backend no ar com o Heroku, utilizando o PM2 para gerenciar e monitorar os processos. Além disso, você vai alterar alguns comportamentos aplicando os conceitos vistos no conteúdo.</em></p>
+<p>Utilizando: Heroku e PM2</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-stranger-things-backend" target="_blank"><strong>Link - Arquivos do projeto backend</strong></a></p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-stranger-things-frontend" target="_blank"><strong>Link - Arquivos do projeto frontend</strong></a></p>
+
+<hr />
+
 ### Projeto: Cookmaster - Março/2021
 
 <p><em>Desenvolvimento: você vai desenvolver seu app utilizando a arquitetura MSC. Neste novo projeto deverá ser possível fazer o cadastro e login de pessoa usuária, onde apenas esse usúario poderá acessar, modificar e deletar as receitas que cadastrou. Além de fazer Upload de arquivos.</em></p>
