@@ -10,6 +10,14 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: TryBeer - Março/2021
+
+<p><em>Desenvolvimento: Esse será o projeto mais desafiador até agora! Você será responsável por criar uma aplicação de ponta a ponta! Ou seja, API, banco de dados e front-end. Deverá ser criada uma plataforma de delivery de cerveja, onde o cliente efetua pedidos e o admin (estabelecimento) controla os pedidos feitos. Essa será a versão 1.</em></p>
+<p>Utilizando: React e MySql.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-trybeer" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
 ### Projeto: Stranger Things BackEnd e FrontEnd - Março/2021
 
 <p><em>Desenvolvimento: você vai adaptar e configurar os projetos descritos nesse README para que seja feito o deploy deles. Você vai colocar os projetos frontend e backend no ar com o Heroku, utilizando o PM2 para gerenciar e monitorar os processos. Além disso, você vai alterar alguns comportamentos aplicando os conceitos vistos no conteúdo.</em></p>
