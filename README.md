@@ -10,10 +10,20 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: BlogsApi - Abril/2021
+
+<p><em>Desenvolvimento: desenvolver uma API de um CRUD posts de blog (com o sequelize). Começando pela API, você vai desenvolver alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados. Lembre-se de aplicar os princípios SOLID.</em></p>
+<p>Utilizando: Sequelize, NodeJs e MySql.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-blogs-api" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
+<hr />
+
 ### Projeto: TryBeer - Março/2021
 
 <p><em>Desenvolvimento: Esse será o projeto mais desafiador até agora! Você será responsável por criar uma aplicação de ponta a ponta! Ou seja, API, banco de dados e front-end. Deverá ser criada uma plataforma de delivery de cerveja, onde o cliente efetua pedidos e o admin (estabelecimento) controla os pedidos feitos. Essa será a versão 1.</em></p>
-<p>Utilizando: React e MySql.</p>
+<p>Utilizando: React, Context Api, React Hooks, Javascript, NodeJs, ExpressJs e MySql.</p>
 <p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-trybeer" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
 
 <hr />
