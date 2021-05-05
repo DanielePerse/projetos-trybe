@@ -7,6 +7,21 @@ Formação: Web Full Stack.
 
 *Período do curso: Junho/2020 até Junho/2021*
 
+<hr />
+
+### Projeto: BlogsApi - Abril/2021
+
+<p><em>Desenvolvimento: Esse projeto é uma continuação do projeto `Trybeer`. O grupo deverá desenvolver novas funcionalidades a partir dos conhecimentos adquiridos nos últimos blocos. Nesse projeto será necessário: refatorar a camada de modelo para usar Sequelize; possibilitar que um administrador possa mudar o status atual de um pedido para um terceiro tipo `Preparando` e exibir essa informação nas partes que são determinadas; desenvolver um chat onde um cliente possa conversar diretamente com o administrador; E extras, como testes e deploy para o Heroku. Lembre-se de aplicar os princípios SOLID.</em></p>
+<p>Utilizando: Sequelize, NodeJs, MySql, socket.io e mongoDb.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-trybeer-v2" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
+### Projeto: WebChat - Abril/2021
+
+<p><em>Desenvolvimento: desenvolver um chat online. Ao utilizar essa aplicação um usuário deverá ser capaz de: usar um front-end para enviar mensagens a clientes conectados; visualizar o histórico de mensagens da conversa; visualizar os usuários online no momento; alterar o nome de usuário no chat em tempo real.</em></p>
+<p>Utilizando: NodeJs, socket.io e mongoDb.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-webchat" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
 
 <hr />
 
@@ -15,8 +30,6 @@ Formação: Web Full Stack.
 <p><em>Desenvolvimento: desenvolver uma API de um CRUD posts de blog (com o sequelize). Começando pela API, você vai desenvolver alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados. Lembre-se de aplicar os princípios SOLID.</em></p>
 <p>Utilizando: Sequelize, NodeJs e MySql.</p>
 <p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-blogs-api" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
-
-<hr />
 
 <hr />
 
