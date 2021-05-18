@@ -9,7 +9,15 @@ Formação: Web Full Stack.
 
 <hr />
 
-### Projeto: BlogsApi - Abril/2021
+### Projeto: Tech News v2 - Maio/2021
+
+<p><em>Desenvolvimento: Você fará um projeto que tem como principal objetivo fazer consultas em notícias sobre tecnologia. Para isso será necessário criar um banco de dados, obter dados para popular este banco, e preparar consultas a serem feitas nestas notícias. As notícias podem ser obtidas através da raspagem das [últimas notícias do _TecMundo_](https://www.tecmundo.com.br/novidades).</em></p>
+<p>Utilizando: Python e MongoDB.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-tech-news" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
+### Projeto: TryBeer v2 - Abril/2021
 
 <p><em>Desenvolvimento: Esse projeto é uma continuação do projeto `Trybeer`. O grupo deverá desenvolver novas funcionalidades a partir dos conhecimentos adquiridos nos últimos blocos. Nesse projeto será necessário: refatorar a camada de modelo para usar Sequelize; possibilitar que um administrador possa mudar o status atual de um pedido para um terceiro tipo `Preparando` e exibir essa informação nas partes que são determinadas; desenvolver um chat onde um cliente possa conversar diretamente com o administrador; E extras, como testes e deploy para o Heroku. Lembre-se de aplicar os princípios SOLID.</em></p>
 <p>Utilizando: Sequelize, NodeJs, MySql, socket.io e mongoDb.</p>
