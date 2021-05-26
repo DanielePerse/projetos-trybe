@@ -9,7 +9,15 @@ Formação: Web Full Stack.
 
 <hr />
 
-### Projeto: Tech News v2 - Maio/2021
+### Projeto: Inventory Report - Maio/2021
+
+<p><em>Desenvolvimento: Você implementará um gerador de relatórios que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados. Aplicando POO e leitura/escrita de arquivos.</em></p>
+<p>Utilizando: Python e POO.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-inventory-report" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
+### Projeto: Tech News - Maio/2021
 
 <p><em>Desenvolvimento: Você fará um projeto que tem como principal objetivo fazer consultas em notícias sobre tecnologia. Para isso será necessário criar um banco de dados, obter dados para popular este banco, e preparar consultas a serem feitas nestas notícias. As notícias podem ser obtidas através da raspagem das [últimas notícias do _TecMundo_](https://www.tecmundo.com.br/novidades).</em></p>
 <p>Utilizando: Python e MongoDB.</p>
