@@ -9,6 +9,14 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: Algorithms - Junho/2021
+
+<p><em>Desenvolvimento: Você var resolver problemas e otimizar algoritmos do tipo que aparecem em inúmeros processos de entrevista por whiteboard.</em></p>
+<p>Utilizando: Python, complexidade de algoritmo, recursividade, ordenação e busca.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-algorithms" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
 ### Projeto: Inventory Report - Maio/2021
 
 <p><em>Desenvolvimento: Você implementará um gerador de relatórios que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados. Aplicando POO e leitura/escrita de arquivos.</em></p>
