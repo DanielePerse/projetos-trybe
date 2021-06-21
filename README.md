@@ -9,9 +9,17 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: Restaurant Orders - Junho/2021
+
+<p><em>Desenvolvimento: A lanchonete Pão na Chapa, atualmente, possui um sistema de faturamento dos pedidos dos clientes, que salva o nome da pessoa, o pedido realizado, e dia do atendimento (dia da semana). O projeto consiste em ajudar a lanchonete a melhorar esse sistema para que ele possibilite extração de relatórios e, num segundo momento, a controlar seu estoque.</p>
+<p>Utilizando: Python, Hash map, dict e set.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-restaurant-orders" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
 ### Projeto: Algorithms - Junho/2021
 
-<p><em>Desenvolvimento: Você var resolver problemas e otimizar algoritmos do tipo que aparecem em inúmeros processos de entrevista por whiteboard.</em></p>
+<p><em>Desenvolvimento: Você vai resolver problemas e otimizar algoritmos do tipo que aparecem em inúmeros processos de entrevista por whiteboard.</em></p>
 <p>Utilizando: Python, complexidade de algoritmo, recursividade, ordenação e busca.</p>
 <p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-algorithms" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
 
