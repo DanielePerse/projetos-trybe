@@ -9,6 +9,14 @@ Formação: Web Full Stack.
 
 <hr />
 
+### Projeto: Project Ting - Junho/2021
+
+<p><em>Desenvolvimento: Implementar um programa que simule o algoritmo de indexação de documentos similar ao do Google. Ou seja, um programa que permita anexar arquivos de texto e posteriormente opere funções de busca sobre tais arquivos.</p>
+<p>Utilizando: Python, Pilhas, Deque e Nó & Listas ligadas.</p>
+<p><a href="https://github.com/DanielePerse/projetos-trybe-full-stack/tree/main/sd-06-project-ting" target="_blank"><strong>Link - Arquivos do projeto</strong></a></p>
+
+<hr />
+
 ### Projeto: Restaurant Orders - Junho/2021
 
 <p><em>Desenvolvimento: A lanchonete Pão na Chapa, atualmente, possui um sistema de faturamento dos pedidos dos clientes, que salva o nome da pessoa, o pedido realizado, e dia do atendimento (dia da semana). O projeto consiste em ajudar a lanchonete a melhorar esse sistema para que ele possibilite extração de relatórios e, num segundo momento, a controlar seu estoque.</p>
